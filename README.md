@@ -1,3 +1,16 @@
+# React Tasks
+1) Character Count
+2) Counter App
+3) Search Array
+4) Filter object from array
+5) Random quote generator
+6) Dependable Dropdown
+7) Password Reset Form with validations
+8) ToDoList
+9) Dark and Light Themes
+10) Add To Cart
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
